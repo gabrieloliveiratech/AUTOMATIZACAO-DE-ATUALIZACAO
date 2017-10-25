@@ -26,4 +26,4 @@ echo.
 echo Back-up finalizado com sucesso!
 echo.
 exit
-#
+
